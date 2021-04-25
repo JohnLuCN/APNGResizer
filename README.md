@@ -14,8 +14,8 @@ Download and Install ImageMagick from https://imagemagick.org/script/download.ph
 ![image](https://user-images.githubusercontent.com/24828239/115980251-cd7f3500-a5bd-11eb-9278-345478665e65.png)
 
 2. Double click to execute "cmd" file 
-* Framerate is 7(value of -r)
-* Loop is 0(value of -plays)
+* Framerate is 7 (value of -r)
+* Loop is 0 (value of -plays)
 
 ![image](https://user-images.githubusercontent.com/24828239/115980278-0fa87680-a5be-11eb-8efb-8676908f3765.png)
 
